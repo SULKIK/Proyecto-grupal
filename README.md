@@ -17,7 +17,7 @@ El mal posicionamiento de los periféricos genera "latencia" en la salud musculo
 * **Monitor Out-of-Range:** Desalineación cervical por altura incorrecta del display.
     * **Fix:** El borde superior del monitor debe estar a la altura de los ojos, manteniendo una distancia de entre $60\text{ cm}$ y $80\text{ cm}$.
 
-
+![Ergonomia](./img/911a947e-0959-42ed-a7ff-cabbb007f829.jpg)
 
 ---
 
@@ -30,6 +30,8 @@ La exposición prolongada a altas tasas de refresco y emisiones de luz azul prov
     * `Cron(every 20min) -> Look(6m) -> Sleep(20s)`
 * **Gestión de Iluminación:** Evitar el deslumbramiento directo y mantener un ratio de contraste equilibrado entre la pantalla y la luz ambiental.
 
+![Vista](./img/3f6635af-8e1c-4210-9c0f-6698cd85c1a7.jpg)
+
 ---
 
 ### 🧠 Capa 3: Estado Psicosocial (Logic Layer)
@@ -41,7 +43,7 @@ Riesgos derivados de la gestión de procesos, procesos de *deployment* estresant
     * **Deep Work:** Segmentación de bloques de trabajo para minimizar el *context switching*.
     * **Desconexión Digital:** Terminación de procesos y cierre de sockets de comunicación (Slack/Teams) tras la jornada laboral para permitir el *recovery* del sistema.
 
-
+![cerebro](./img/a9abb975-a76c-4f39-89fa-f541592dc6f3.jpg)
 
 ---
 
@@ -53,6 +55,8 @@ Riesgos derivados de la gestión de procesos, procesos de *deployment* estresant
 | **Teclado** | Posición que evite la desviación cubital. | [ ] |
 | **Monitor** | Soporte VESA ajustable y panel antiparpadeo. | [ ] |
 | **Ambiente** | Temperatura: 20°C - 24°C | Humedad: > 40%. | [ ] |
+
+![Lista](./img/seguridad_en_el_trabajo.jpeg)
 
 ---
 
